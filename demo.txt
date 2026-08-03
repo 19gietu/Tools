@@ -1,0 +1,19 @@
+sdlc
+linux
+shell scripting
+git and git hub
+maven
+tomcat
+sonarqube
+nexus
+jenkins
+docker
+k8s
+project
+argocd
+monitoring
+ansible
+aws
+terraform
+github actions
+
