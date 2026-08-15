@@ -1,0 +1,12 @@
+linux commands
+cp
+rm
+move
+ls 
+grep
+awk
+sed
+head 
+tail
+crontab
+
